@@ -1,17 +1,17 @@
-# <div align="center">👋 Merhaba, Ben Semih!</div>
+# <div align="center">👋 Hello, I'm Semih!</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🔭 Şu anda yazılım geliştirme alanında çalışıyorum
-- 🌱 Sürekli yeni teknolojiler öğrenmeye açığım
-- 👯 İlginç projelerde işbirliği yapmaktan keyif alırım
-- 💬 Yazılım geliştirme hakkında sohbet etmekten mutluluk duyarım
+- 🔭 I am currently working in software development.
+- 🌱 I am always open to learning new technologies.
+- 👯 I enjoy collaborating on interesting projects.
+- 💬 I'm happy to chat about software development.
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ My Technology Stack
 
 <div align="center">
   
@@ -19,7 +19,7 @@
 
 </div>
 
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Statistics
 
 <div align="center">
   
@@ -31,7 +31,7 @@
 
 </div>
 
-## 🌐 Bağlantılar
+## 🌐 Links
 
 <div align="center">
   
@@ -41,7 +41,7 @@
 
 </div>
 
-## 🎯 Aktivite Grafiği
+## 🎯 Activity Graph
 
 ![Snake animation](https://raw.githubusercontent.com/smh-ux/smh-ux/output/github-contribution-grid-snake.svg)
 

@@ -43,8 +43,8 @@
 
 ## 🎯 Aktivite Grafiği
 
-![Snake animation](https://github.com/semihokumus/semihokumus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/smh-ux/smh-ux/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=semihokumus&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=smh-ux&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div> 
